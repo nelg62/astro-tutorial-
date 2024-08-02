@@ -1,3 +1,7 @@
+Followed Astro tutorial: https://docs.astro.build/en/tutorial/0-introduction/
+
+Hosted on netlify: https://stunning-douhua-60b2ec.netlify.app
+
 # Astro Starter Kit: Minimal
 
 ```sh
